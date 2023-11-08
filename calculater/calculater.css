@@ -1,0 +1,26 @@
+.border{
+    height: 400px;
+    width: 400px;
+    border: 5px solid black;
+   position: absolute;
+   margin-left: 500px;
+   margin-top: 180px;
+   text-align: center;
+   background-color: rgb(154, 65, 237);
+}
+input{
+    background-color: rgb(125, 94, 155);;
+}
+button{
+    background-color: rgb(154, 65, 237);
+}
+button:hover{
+    background-color: rgb(83, 42, 165);
+    color:#ffffff;
+}
+#reset{
+    position: absolute;
+    margin-top: 0px;
+  
+    
+}
